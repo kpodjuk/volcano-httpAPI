@@ -9,6 +9,5 @@ hotplug
 info
 volcanod.plist
 test/
-bin/
 build/
 .env
